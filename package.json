@@ -8,5 +8,12 @@
   "main": "main.js",
   "repository": "https://github.com/MrYahoux/Bot-Tom-Nook.git",
   "author": "<yohan.avenel@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-aqua": "^7.2.4"
+  },
+  "eslintconfig":{
+    "extends": "aqua/node"
+}
 }
