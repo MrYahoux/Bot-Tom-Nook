@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "bot",
+  "version": "0.1.0",
+  "description": "bot discord",
+  "main": "main.js",
+  "repository": "https://github.com/MrYahoux/Bot-Tom-Nook.git",
+  "author": "<yohan.avenel@hotmail.com>",
+  "license": "MIT"
 }
